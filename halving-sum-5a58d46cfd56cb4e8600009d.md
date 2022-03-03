@@ -1,4 +1,4 @@
-# Solutions to "Halving Sum"
+# Solutions for "Halving Sum"
 
 > Kata Link: [Halving Sum](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d)
 

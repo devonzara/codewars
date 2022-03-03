@@ -1,4 +1,4 @@
-# Solutions to "Is it a number?"
+# Solutions for "Is it a number?"
 
 > Kata Link: [Is it a number?](https://www.codewars.com/kata/57126304cdbf63c6770012bd)
 
