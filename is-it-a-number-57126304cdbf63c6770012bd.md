@@ -14,7 +14,7 @@ function isDigit(string) {
 }
 ```
 
-Shortest Solution:
+Short Solution:
 ```js
 const isDigit = s => !!s.trim`` && s == +s;
 ```
